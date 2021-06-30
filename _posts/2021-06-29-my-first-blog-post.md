@@ -1,5 +1,4 @@
-
 ---
-title: "my website"
-date: 2021-06-20
+title: "Your blog post title"
+date: 2021-06-30
 ---
